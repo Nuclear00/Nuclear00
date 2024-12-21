@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nuclear00
 - 👀 I’m interested in much things
 - 🌱 I’m currently learning BrainFuck programming language
-- 📫 You can reach me on discord
+- 📫 You can reach me on Discord: justmeanwhile
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Fav programming langauge right now: BrainFuck, Lua
+- ⚡ Fun fact: Favorite programming langauge right now: BrainFuck, Lua
 - Next goal is to start to learn Lua
