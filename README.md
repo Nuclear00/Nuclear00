@@ -2,6 +2,6 @@
 - 👀 I’m interested in much things
 - 🌱 I’m currently learning BrainFuck programming language
 - 📫 You can reach me on Discord: justmeanwhile
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: They/them
 - ⚡ Fun fact: Favorite programming langauge right now: BrainFuck, Lua
 - Next goal is to start to learn Lua
