@@ -1,5 +1,5 @@
 # Hellou!
-I'm Nuclear, a beginner hobbyist coder.
+I'm Nuclear, a intermediate hobbyist programmer.
 ## About me
  - I like to learn new things
  - I'm mainly on discord
